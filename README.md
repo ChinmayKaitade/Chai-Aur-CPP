@@ -5,3 +5,4 @@
 3. Variables and Constants in C++
 4. Data Types and Challenges in C++
 5. Operators and Challenges in C++
+6. Conditionals and Challenges in C++
